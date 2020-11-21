@@ -1,1 +1,1 @@
-# ArcoLinux desktop settings dwm
+# ArcoLinux slstatus
